@@ -13,4 +13,4 @@
 - Audit
 
 
-## Terraform : <Hashcorp | IaC | Open Source |Go lang>
+## Terraform : < Hashcorp | IaC | Open Source | GoLang >
